@@ -1,0 +1,6 @@
+typing 
+langgraph
+langchain
+langchain-google-genai
+langchain-openai
+dotenv
